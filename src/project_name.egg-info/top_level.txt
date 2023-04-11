@@ -1,9 +1,0 @@
-__init__
-dice
-dicehand
-game
-intelligence
-main
-player
-tests
-usergame
